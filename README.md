@@ -5,6 +5,8 @@
 - 🤝 Open to job opportunities & collaborations — let’s build something cool!  
 - ⚡ Fun fact: I enjoy turning complex data puzzles into simple solutions!
 - Previously worked with [<img src="https://cognizant.scene7.com/is/content/cognizant/COG-Logo-2022-1?fmt=png-alpha" height="25" width="100" background-coor="white">](https://www.cognizant.com/)
+- Social Presence <br>
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/mohamedmubeenm/)
 
 
 
