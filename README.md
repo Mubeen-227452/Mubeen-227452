@@ -3,8 +3,9 @@
 - 🌱 Currently learning Angular & Spring Boot for full-stack workflow  
 - 🛠️ Automating ETL pipelines and CI/CD deployments  
 - 🤝 Open to job opportunities & collaborations — let’s build something cool!  
-- ⚡ Fun fact: I enjoy turning complex data puzzles into simple solutions! 🚀
+- ⚡ Fun fact: I enjoy turning complex data puzzles into simple solutions!
 -Previously worked with [![Cognizant Logo](https://upload.wikimedia.org/wikipedia/commons/5/5a/Cognizant_logo_2022.svg)](https://www.cognizant.com/)
+[<img src="https://cognizant.scene7.com/is/content/cognizant/COG-Logo-2022-1?fmt=png-alpha" height="30" width="250">]
 
 
 <!---
