@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I enjoy turning complex data puzzles into simple solutions!
 - Previously worked with [<img src="https://cognizant.scene7.com/is/content/cognizant/COG-Logo-2022-1?fmt=png-alpha" height="20" width="50">](https://www.cognizant.com/)
 
-- Previously worked with [<img src="https://images.seeklogo.com/logo-png/38/1/cognizant-logo-png_seeklogo-388100.png" width="20" height="20">](https://www.cognizant.com/)
+- Previously worked with [<img src="https://images.seeklogo.com/logo-png/38/1/cognizant-logo-png_seeklogo-388100.png" width="20" height="100">](https://www.cognizant.com/)
 
 
 
