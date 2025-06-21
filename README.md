@@ -10,7 +10,7 @@
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://images.seeklogo.com/logo-png/61/2/talend-logo-png_seeklogo-618023.png">
+<img height="50" width="50" src="https://logowik.com/content/uploads/images/talend5625.jpg">
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=GlN24LRjUhww&format=png&color=000000">
 <img height="50" width="50" src="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1720244492">
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=dSnah6CSCxRG&format=png&color=000000">
