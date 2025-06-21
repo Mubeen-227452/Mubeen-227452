@@ -10,7 +10,17 @@
 
 ### I code in
 <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000">
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=GlN24LRjUhww&format=png&color=000000">
+<img height="50" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.talend.com%2Fproducts%2Ftalend-open-studio%2F&psig=AOvVaw1zfunpiD3ppRYxBI7Yz_Y_&ust=1750604996277000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiBt_rlgo4DFQAAAAAdAAAAABAE">
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=dSnah6CSCxRG&format=png&color=000000">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 <!---
 Mubeen-227452/Mubeen-227452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
