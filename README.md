@@ -4,7 +4,7 @@
 - 🛠️ Automating ETL pipelines and CI/CD deployments  
 - 🤝 Open to job opportunities & collaborations — let’s build something cool!  
 - ⚡ Fun fact: I enjoy turning complex data puzzles into simple solutions!
-- Previously worked with [<img src="https://cognizant.scene7.com/is/content/cognizant/COG-Logo-2022-1?fmt=png-alpha" height="10" width="150" background-coor="white">](https://www.cognizant.com/)
+- Previously worked with [<img src="https://cognizant.scene7.com/is/content/cognizant/COG-Logo-2022-1?fmt=png-alpha" height="25" width="100" background-coor="white">](https://www.cognizant.com/)
 
 
 
