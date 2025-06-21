@@ -1,4 +1,5 @@
 ##👋 Hi there, I'm Mohamed Mubeen
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Working with Talend, Snowflake, and Oracle PL/SQL  
 - 🌱 Currently learning Angular & Spring Boot for full-stack workflow  
 - 🛠️ Automating ETL pipelines and CI/CD deployments  
