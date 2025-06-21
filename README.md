@@ -11,7 +11,7 @@
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=GlN24LRjUhww&format=png&color=000000">
-<img height="50" width="50" src="https://www.streamlinehq.com/icons/download/talend--31088">
+<img height="50" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcompanieslogo.com%2Finformatica%2Flogo%2F&psig=AOvVaw0bG0883OUCExM29jBdrT_d&ust=1750605841424000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCPmIzpgo4DFQAAAAAdAAAAABAE">
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=dSnah6CSCxRG&format=png&color=000000">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
